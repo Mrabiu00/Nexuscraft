@@ -1,0 +1,13 @@
+# Tasks
+- [x] Add interactive right-hand N orbit and data markers.
+- [x] Update the full-width seamless tech marquee beneath hero stats.
+- [x] Replace the expanding contact menu with two glass contact bubbles.
+- [x] Verify desktop/mobile layout and existing tests.
+- [x] Case study modals for AgroPulse AI, MedCore HMS, DevForge Studio (challenge, architecture, stack, results, CTA to estimator).
+- [x] "Why NexusCraft" comparison section (traditional vs the NexusCraft standard).
+- [x] Engagement models: MVP & Product Sprint / Full Brand & Digital Overhaul / Dedicated Tech Partner.
+- [x] FAQ accordion: timelines, ownership, milestone payments, post-launch support, how to start.
+- [x] Estimator: visual roadmap bar with the WhatsApp CTA pre-filled from selections.
+- [x] Verify new sections on desktop + mobile and run tests.
+- [x] Support real project pictures on cards and case-study pop-ups.
+- [x] Verify the updated site and prepare the complete standalone source ZIP.
