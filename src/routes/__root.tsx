@@ -1,5 +1,5 @@
 import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
-import { Analytis } from '@vercel/analytics/react',
+import { Analytics } from '@vercel/analytics/react';
 import {
   Outlet,
   Link,
